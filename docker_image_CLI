@@ -1,0 +1,1 @@
+sh -c "$(curl -sSL https://raw.githubusercontent.com/bpx-energy/mindsdb/master/distributions/docker/build-docker.sh)"
